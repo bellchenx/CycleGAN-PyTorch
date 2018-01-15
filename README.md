@@ -5,4 +5,5 @@ Visit [my blog](https://bellchen.me/cyclegan-for-unsupervised-translation-in-ani
 
 # Reference
 [Original Implementation](https://github.com/junyanz/CycleGAN)
+
 [Original Paper](https://arxiv.org/abs/1703.10593)
